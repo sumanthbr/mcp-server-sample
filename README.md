@@ -2,10 +2,10 @@
 This project contains the code and configuration for a simple Model Context Protocol (MCP) server using FastMCP.
 
 # File Structure:
- ├── mcp_joke_server.py  # The main Python application using FastMCP.
- ├── requirements.txt    # Python dependencies.
- ├── Dockerfile          # Dockerfile to containerize the application.
- └── k8s-deployment.yaml # Kubernetes manifests for Deployment and Service.
+ ├── mcp_joke_server.py  The main Python application using FastMCP.
+ ├── requirements.txt    Python dependencies.
+ ├── Dockerfile          Dockerfile to containerize the application.
+ └── k8s-deployment.yaml Kubernetes manifests for Deployment and Service.
 
 # How to Run:
 
